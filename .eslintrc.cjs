@@ -57,8 +57,6 @@ module.exports = {
     "tailwindcss/enforces-shorthand": "warn",
     "tailwindcss/migration-from-tailwind-2": "off",
     "tailwindcss/no-arbitrary-value": "off",
-    "tailwindcss/no-custom-classname": "off",
-    classnames: "error",
   },
   overrides: [
     {
